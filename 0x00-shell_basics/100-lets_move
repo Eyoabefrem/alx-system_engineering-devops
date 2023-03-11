@@ -1,2 +1,2 @@
 #!/bin/bash
-my[[:myupper:]]* /tmp/u
+my [[:myupper:]]* /tmp/u
